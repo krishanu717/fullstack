@@ -6,7 +6,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get("/", (req, res) => {
-  res.send("Backend is running 🚀 on Railway!");
+  res.send("nigga Krishanu Deployed his ass!");
 });
 
 const PORT = process.env.PORT || 5000;
